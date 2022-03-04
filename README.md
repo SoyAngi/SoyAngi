@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/YoSoyAngi" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/SoyAngi" />
 </p>
 
 <br>
 
-# 💛 Working...
-- 🔭 - I’m currently working on **Batch Multitool**.
-- 🌱 - I’m currently learning **Web Development**.
+# 💛 About Me...
+- 🔭 - I’m currently working on **Python MultiTool**.
+- 🌱 - I’m currently learning **Web Dev**.
 - 👯 - I’m collaborating with **Other Developers and Friends**
-- 📬 - You Can DM Me on **[Discord](https://discord.com/users/912391735127195738)**.
+- 📬 - You Can DM Me on **[Discord](https://discord.com/users/907618666315669614)**.
 - ⚡ - I love **Coding & Developing Bots** <3
 
 <br/>
@@ -38,10 +38,10 @@
 
 # 💛 Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='80'>](https://github.com/YoSoyAngi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='80'>](https://www.instagram.com/YoSoyAnyi4/)  [<img
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='80'>](https://github.com/YoSoyAngi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='80'>](https://www.instagram.com/yosoyangidev/)  [<img
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='TikTok' height='80'>](https://www.tiktok.com/@angitools_?lang=es)  [<img 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='80'>](https://discord.gg/tools/)  [<img 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='80'>](https://twitter.com/YoSoyAngiDEV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='80'>](https://www.youtube.com/YoSoyAngiツ)  
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='80'>](https://discord.gg/gen/)  [<img 
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='80'>](https://twitter.com/soyaangi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='80'>](https://www.youtube.com/c/YoSoyAngiツ)  
 
 
 # 💛 Donations
@@ -52,4 +52,4 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twi
 - 🔐 - LTC Adress: LReKGqtvRGSKQm61q8LRw56U1ZzzkNBegm
 
 <div align="center">
-<h3 align="center">By Angi With &nbsp;❤️&nbsp; Have Great Day!</h3>
+<h3 align="center">By Angi With &nbsp;❤️&nbsp; Have a Nice Day!</h3>
