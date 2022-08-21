@@ -6,18 +6,7 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/SoyAngi" />
 </p>
 
-<br>
-
-# 💛 About Me...
-- 🔭 - I’m currently working on **Python MultiTool**.
-- 🌱 - I’m currently learning **Web Dev**.
-- 👯 - I’m collaborating with **Other Developers and Friends**
-- 📬 - You Can DM Me on **[Discord](https://discord.com/users/907618666315669614)**.
-- ⚡ - I love **Coding & Developing Bots** <3
-
-<br/>
-
-# 💛 Languajes
+# Languajes
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/python%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
