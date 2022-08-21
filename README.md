@@ -23,20 +23,5 @@
 
 <br>
 
-# 💛 Socials
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='80'>](https://github.com/YoSoyAngi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='80'>](https://www.instagram.com/yosoyangidev/)  [<img
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='TikTok' height='80'>](https://www.tiktok.com/@angitools_?lang=es)  [<img 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='80'>](https://discord.gg/gen/)  [<img 
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='80'>](https://twitter.com/soyaangi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='80'>](https://www.youtube.com/c/YoSoyAngiツ)  
-
-
-# 💛 Donations
-
-- ⚡ - [Click To Go PayPal](https://www.paypal.com/paypalme/gfxyosoyangi)
-- 🔐 - BTC Adress: 3Gas6pBWSv1w5U5wn4GjMsToSA6PheCg9w
-- 🔐 - ETH Adress: 0x8cc41422e31465b08bde79ffefdee8d93fab05a2
-- 🔐 - LTC Adress: LReKGqtvRGSKQm61q8LRw56U1ZzzkNBegm
-
 <div align="center">
 <h3 align="center">By Angi With &nbsp;❤️&nbsp; Have a Nice Day!</h3>
