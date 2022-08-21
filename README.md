@@ -6,7 +6,6 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/SoyAngi" />
 </p>
 
-# Languajes
 <br>
 <p align='center'>
   <img src="https://img.shields.io/badge/python%20-%23e34f26.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
