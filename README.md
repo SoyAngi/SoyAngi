@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>@angi.wts on instagram</b></h1>
+  <h1 align="center"><b>@jorobado on Discord</b></h1>
 </p>
 
 <p align="center">
